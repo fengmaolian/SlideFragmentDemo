@@ -4,7 +4,7 @@
 ![image](https://github.com/fengmaolian/SlideFragmentDemo/blob/master/SlideFragmentDemo/screenshots/a.gif)
 
 
-相关代码：
+#相关代码：
 package com.slide.main;
 import android.content.pm.ActivityInfo;
 import android.os.Bundle;
