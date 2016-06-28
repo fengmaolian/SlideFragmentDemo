@@ -1,2 +1,2 @@
 # SlideFragmentDemo
-viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换
+文章地址：http://blog.csdn.net/csdnfml/article/details/51770177
