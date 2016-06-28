@@ -78,7 +78,6 @@ public class MainActivity extends AutoLayoutActivity {
         mFragmentList.add(mFragmentThree);
         mFragmentList.add(mFragmentFour);
         mFragmentList.add(mFragmentFive);
-
         mButtonList.add(mMainFwBtnTrue);
         mButtonList.add(mMainSjBtnTrue);
         mButtonList.add(mMainGzBtnTrue);
@@ -105,7 +104,6 @@ public class MainActivity extends AutoLayoutActivity {
             public void onPageScrollStateChanged(int state) {}
         });
     }
-
     @OnClick({R.id.m_main_fw_btn_true, R.id.m_main_sj_btn_true, R.id.m_main_gz_btn_true, R.id.m_main_lxr_btn_true, R.id.m_main_wd_btn_true})
     public void onClick(View view) {
         switch (view.getId()) {
@@ -126,7 +124,6 @@ public class MainActivity extends AutoLayoutActivity {
                 break;
         }
     }
-
      /**
       * 一开始运行、滑动和点击tab结束后设置tab的透明度，fragment的透明度和大小
       */
@@ -149,7 +146,6 @@ public class MainActivity extends AutoLayoutActivity {
             }
         }
     }
-
     /**
      * 根据滑动设置透明度
      */
