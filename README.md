@@ -1,0 +1,2 @@
+# SlideFragmentDemo
+viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换viewpager+fragment实现点击、滑动切换
